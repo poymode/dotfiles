@@ -1,0 +1,5 @@
+color ir_black
+set nu!
+set wrap
+cmap <C-K> <Up>
+cmap <C-J> <Down>
